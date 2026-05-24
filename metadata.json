@@ -1,0 +1,9 @@
+{
+  "name": "ViralCraft AI",
+  "description": "인기 인스타그램 영상을 분석하여 한국 시장 맞춤형 리메이크 전략을 제안하는 AI 플랫폼입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
